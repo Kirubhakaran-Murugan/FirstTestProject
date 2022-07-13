@@ -9,3 +9,5 @@ E-Ration Shop Application
 4.View the available resources
 
 5.Do the checkout
+
+6.Report issues using Report Query tab

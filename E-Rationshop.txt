@@ -1,0 +1,11 @@
+E-Ration Shop Application
+
+1.Login function based on Ration card number and DOB
+
+2.Contact US option to directly contact Ration Shop people
+
+3.Opt for Home Delivery
+
+4.View the available resources
+
+5.Do the checkout
